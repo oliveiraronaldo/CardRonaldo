@@ -1,4 +1,4 @@
-# Card ROnaldo Oliveira
+# Card Ronaldo Oliveira
 
 Trabalho de Programação para Internet 1 - ADS - IFTM
 
